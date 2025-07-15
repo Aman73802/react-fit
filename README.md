@@ -19,12 +19,6 @@ A modern and responsive fitness website built using **React.js**, showcasing cle
 | **CSS**      | Styling and responsive design  |
 | **JavaScript** | Interactivity and logic       |
 
-## 📸 Screenshots
-
-*(You can upload screenshots here from your `src/assets/` folder or running site)*
-
-![Homepage Screenshot](./src/assets/homepage.png)  
-*(Add your own screenshot files in this section)*
 
 ## 🧩 Folder Structure
 
@@ -38,9 +32,7 @@ react-fit/
 │ ├── App.js
 │ └── index.js
 
-bash
-Copy
-Edit
+
 
 ## 🚀 How to Run the Project
 
@@ -62,5 +54,4 @@ Open your browser at http://localhost:3000
 🙋‍♂️ Author
 Aman Upadhyay
 📧 amanupadhyay8146@gmail.com
-🔗 LinkedIn
-🖥️ GitHub
+
